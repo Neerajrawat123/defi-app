@@ -20,7 +20,7 @@ Follow these steps to set up your  project:
 You can clone project using the following command:
 
 ```bash
-git clone https://github.com/Neerajrawat123/defi-app/
+git clone https://github.com/Neerajrawat123/defi-app.git
 cd defi-app
 ```
 
