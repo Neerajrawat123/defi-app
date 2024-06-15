@@ -21,3 +21,17 @@ You can clone project using the following command:
 
 ```bash
 git clone https://github.com/Neerajrawat123/defi-app/
+cd defi-app
+```
+
+### 2. Install all the dependencies
+
+These commands will install all the dependencies and start the local environment
+
+```bash
+npm install
+npm run dev
+```
+
+
+### 3. Go on local server http://localhost:3000
