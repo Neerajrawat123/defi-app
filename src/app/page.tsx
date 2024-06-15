@@ -61,7 +61,7 @@ export default function Home() {
     <div className="w-full">
       <div className="flex justify-between px-32 py-8 border-b-2 border-gray-200">
         <span className="text-3xl font-bold">buildl</span>
-        <Link href={'/swap'}>Swap token</Link>
+        
         <ConnectButton />
 
             </div>
